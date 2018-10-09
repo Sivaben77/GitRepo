@@ -1,4 +1,5 @@
-spiral
-ellipitcal
-bar 
-irregular
+spiral galaxy
+ellipitcal galaxy
+bar  galaxy
+irregular galaxy
+galaxy galaxy
